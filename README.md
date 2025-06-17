@@ -43,7 +43,7 @@ Run the script:
 bash
 Copy
 Edit
-python house_price_predictor.py
+python house_price_predicton.py
 Input:
 You'll be prompted to enter an area (e.g., 2200)
 
@@ -60,8 +60,7 @@ Edit
 house-price-prediction/
 ├── house_price_predicton.py
 └── README.md
-📄 License
-This project is open source and available under the MIT License.
+
 
 
 
